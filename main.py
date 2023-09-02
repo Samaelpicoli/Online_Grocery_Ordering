@@ -29,7 +29,7 @@ arq = processo.extrai_dados(pasta_destino)
 processo.insere_dados(driver, arq)
 processo.captura_tempo(driver, wdw)
 
-
+print('Atividade realizada com sucesso!')
 driver.close()
 driver.quit()
 
