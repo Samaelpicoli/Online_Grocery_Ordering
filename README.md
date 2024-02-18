@@ -20,6 +20,8 @@ Pandas
 
 Selenium
 
+Requests
+
 # Como executar o projeto
 Pré-requisitos: Python 3.10
 
