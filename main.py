@@ -16,8 +16,11 @@ estado = 'INITIALIZATION'
 status_loop = 'ON'
 
 while status_loop == 'ON':
+    
     match estado:
+    
         case 'INITIALIZATION':
+            
             try:
                 pasta_destino = os.path.dirname(__file__)
                 options = webdriver.ChromeOptions()
