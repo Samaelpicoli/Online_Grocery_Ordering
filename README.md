@@ -9,7 +9,9 @@ Online Grocery Ordering é uma aplicação web para treinamento de RPA, onde dev
 Ao final do preenchimento surge um modal que mostra o tempo que o robô levou para preencher e a acurácia, o mesmo tira um print e salva na pasta do projeto.
 
 ## Layout da web
-Rede 1
+![Web 1](https://github.com/Samaelpicoli/Online_Grocery_Ordering/blob/main/assets/web1.PNG)
+
+![Web 2](https://github.com/Samaelpicoli/Online_Grocery_Ordering/blob/main/assets/acuracia.png)
 
 
 # Tecnologias Utilizadas
