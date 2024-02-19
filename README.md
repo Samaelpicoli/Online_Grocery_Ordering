@@ -26,6 +26,10 @@ Selenium
 
 Requests
 
+Webdriver-Manager
+
+Os
+
 ## Sobre o código
 
 O projeto foi dividido em módulos, onde um arquivo faz as interações com o site, e outro arquivo faz a requisição e faz download do CSV, 
