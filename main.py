@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 import pandas as pd
 import os
-
+import requests
 #MÓDULO UTILIZADO NO PROCESSO
 import processo
 
