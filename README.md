@@ -32,8 +32,8 @@ Os
 
 ## Sobre o código
 
-O projeto foi dividido em módulos, onde um arquivo faz as interações com o site, e outro arquivo faz a requisição e faz download do CSV, 
-os 2 arquivos são chamados dentro do arquivo main que os executa.
+O projeto foi desenvolvido utilizando o paradigma Orientado a Objetos, onde o arquivo grocery_ordering.py contém todas as funcionalidades do projeto como a requisição do arquivo csv via requests e
+a interação com o site da atividade, a classe é instanciada dentro do arquivo main que os executa.
 
 No main, o projeto foi desenvolvido como uma máquina de estados (INITIALIZATION, GET TRANSACTION, PROCESS, END), emulando o ReFramework do UiPath,
 auxiliando a criar automações mais confiáveis, flexíveis e fáceis de manter ao longo do tempo.
