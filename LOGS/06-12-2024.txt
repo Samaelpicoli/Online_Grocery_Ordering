@@ -1,0 +1,28 @@
+[06/12/2024 01:55:11] INFO - Iniciou o Processo.
+[06/12/2024 01:55:25] INFO - Login realizado no site.
+[06/12/2024 01:55:30] INFO - Arquivo foi gerado na pasta: /home/sama/Documentos/meus_scripts_git/Online_Grocery_Ordering/BASE DE DADOS A SER PROCESSADA/ARQUIVO_PEDIDOS_06-12-2024_01.55.25.csv
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Oatmeal.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Granola.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Strawberries.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Macaroni and Cheese.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Pizza.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Broccoli.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Captura item para processamento.
+[06/12/2024 01:55:30] INFO - Inserindo no input: Chicken Nuggets.
+[06/12/2024 01:55:30] INFO - Item inserido com Sucesso.
+[06/12/2024 01:55:30] INFO - Todas as linhas foram executadas.
+[06/12/2024 01:55:32] INFO - Tempo de processamento: 2.465 seconds - Acurácia no prrenchimento: 100.00%
+[06/12/2024 01:55:32] INFO - Arquivo '/home/sama/Documentos/meus_scripts_git/Online_Grocery_Ordering/BASE DE DADOS A SER PROCESSADA/ARQUIVO_PEDIDOS_06-12-2024_01.55.25.csv' movido para '/home/sama/Documentos/meus_scripts_git/Online_Grocery_Ordering/PROCESSADOS/ARQUIVO_PEDIDOS_06-12-2024_01.55.25.csv' com sucesso!
+[06/12/2024 01:55:32] INFO - Processo finalizado.
